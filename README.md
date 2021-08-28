@@ -8,9 +8,9 @@
 
 <h4>Server and Core modules</h4>
 <ul>
-    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/path.js'> Path Module</a></li>
-    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/os.js'>OS module</a></li>
-    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/fs.js'>File System module</a></li>
-    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/event.js'>Event Module</a></li>
-    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/'></a></li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/path.js'> Path Module</a></li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/os.js'>OS module</a></li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/fs.js'>File System module</a></li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/event.js'>Event Module</a></li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/'></a></li>
 </ul>
