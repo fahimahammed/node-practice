@@ -1,4 +1,4 @@
-<h2>Node js Practice </h1>
+<h2>Node js Practice </h1> <hr>
 
 <h4>Global object and module system</h4>
 <ul>
@@ -6,6 +6,7 @@
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/people.js'>Module System</a></li>
 </ul>
 
+<hr>
 <h4>Server and Core modules</h4>
 <ul>
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/path.js'> Path Module</a></li>
