@@ -8,7 +8,7 @@
 
 <h4>Server and Core modules</h4>
 <ul>
-    <li> Path Module (path.js) </li>
-    <li>OS module (os.js)</li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/path.js'> Path Module/a></li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/os.js'>OS module</a></li>
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/fs.js'>File System module</a></li>
 </ul>
