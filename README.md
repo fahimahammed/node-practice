@@ -11,5 +11,6 @@
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/path.js'> Path Module</a></li>
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/os.js'>OS module</a></li>
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/fs.js'>File System module</a></li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/event.js'>Event Module</a></li>
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/'></a></li>
 </ul>
