@@ -14,5 +14,6 @@
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/fs.js'>File System module</a></li>
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/event.js'>Event Module</a></li>
     <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/http.js'>HTTP Module</a></li>
-    <!-- <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-5/'></a></li> -->
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-6/stream.js'>Streaming</a></li>
+    <li><a href='https://github.com/fahimahammed/node-practice/blob/main/Lesson-6/'></a></li>
 </ul>
